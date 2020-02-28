@@ -1,4 +1,5 @@
-# NightWatch Selenium Sample
+# Running NightWatch Script on LambdaTest
+
 ##### [NightWatch Documentation](http://nightwatchjs.org/)
 ![LAMBDATEST Logo](http://labs.lambdatest.com/images/fills-copy.svg)
 
