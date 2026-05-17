@@ -54,7 +54,7 @@ Run tests in parallel:
 
 View results in the TestMu AI Automation Dashboard.
 
-> **Note:** Some Safari and IE browsers do not support automatic resolution of the URL string "localhost". If you test on URLs like `http://localhost/` or `http://localhost:8080`, you may get an error in these browsers. Use `localhost.lambdatest.com` or replace `localhost` with your machine's IP address instead.
+> **Note:** Some Safari and IE browsers do not support automatic resolution of the URL string "localhost". If you test on URLs like `http://localhost/` or `http://localhost:8080`, you may get an error in these browsers. Use `localhost.testmuai.com` or replace `localhost` with your machine's IP address instead.
 
 ### Local testing with TestMu AI Tunnel
 
